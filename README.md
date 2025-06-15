@@ -1,12 +1,12 @@
 Hi 👋 My name is Nikola Veselinović
 ===================================
 
-I am a student at the University of Belgrade, Faculty of Mathematics, studying IT technologies. I love tech and am passionate about making applications, games, and web apps.
+I have a Bachelor of Computer Science and work as a Junior Software Engineer at Between DOO. I love tech and am passionate about making applications, games, and web apps.
 
 *   🌍  I'm based in Belgrade, Serbia
 *   🖥️  See my portfolio at [wesely1996.github.io](http://wesely1996.github.io/PersonalPage/)
 *   ✉️  You can contact me at [veselinovicsn@gmail.com](mailto:veselinovicsn@gmail.com)
-*   🧠  I'm learning Probability, Data Mining and Computer networks### Skills<p align="left">
+*   🧠  I'm currently working on improving my skills and getting my Master's degree.<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
