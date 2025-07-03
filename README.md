@@ -1,7 +1,8 @@
 Hi 👋 My name is Nikola Veselinović
 ===================================
 
-I have a Bachelor of Computer Science and work as a Junior Software Engineer at Between DOO. I love tech and am passionate about making applications, games, and web apps.
+I'm a Software Engineer passionate about building elegant, efficient, and scalable solutions that solve real-world problems. 
+With a foundation rooted in strong technical education and hands-on experience, I thrive in dynamic environments that challenge me to learn, adapt, and grow continuously.
 
 *   🌍  I'm based in Belgrade, Serbia
 *   🖥️  See my portfolio at [wesely1996.github.io](http://wesely1996.github.io/PersonalPage/)
